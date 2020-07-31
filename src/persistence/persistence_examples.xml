@@ -1,0 +1,47 @@
+<!--Example Persistence for Level 1-->
+<level>
+    <fixed>
+        <wall></wall>
+        <wall></wall>
+        <wall></wall>
+        <invisiblewall></invisiblewall>
+        <wall></wall>
+        <wall></wall>
+        <wall></wall>
+        <wall></wall>
+        <chest>
+            <item>Key</item>
+            <item>Coins</item>
+            <item>Helmet</item>
+        </chest>
+        <door>
+            <connectedTo>2</connectedTo>
+            <connectedToPos>
+                <x>5</x>
+                <y>5</y>
+            </connectedToPos>
+        </door>
+    </fixed>
+    <dynamic>
+        <enemy>
+            <x>15</x>
+            <y>10</y>
+        </enemy>
+        <player>
+            <x>10</x>
+            <y>10</y>
+            <health>15</health>
+
+            <!--Dont worry about this just yet-->
+            <inventory>
+                <inventoryItem>Key</inventoryItem>
+                <inventoryItem>Sword</inventoryItem>
+                <inventoryItem>Torch</inventoryItem>
+            </inventory>
+        </player>
+        <key>
+            <x>7</x>
+            <y>5</y>
+        </key>
+    </dynamic>
+</level>

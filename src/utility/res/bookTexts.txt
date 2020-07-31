@@ -1,0 +1,8 @@
+Keys are capable of opening doors
+We didn't have the budget to hire a story team
+Special thanks to my SWEN team. Without them, I would've finished this project 3 weeks early - Sherif Riad
+When fighting enemies, win by making their health 0 and yours above 0!
+Question 1A. What two conditions does A* search need in order to get the shortest path every time? [3 marks]
+Enemies die when they are killed
+Money can be exchanged for goods and services
+I want this team to lower me at my funeral, so they can let me down one last time - Jericho Jackson
